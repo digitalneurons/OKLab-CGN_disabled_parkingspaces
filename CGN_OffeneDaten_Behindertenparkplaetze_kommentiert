@@ -1,0 +1,426 @@
+objectid	bezeichnung	nr_stadtbezirk	stadtteil	anzahl	bemerkung	x	y	statusOSM typeOSM idOSM
+1	Am Schwanebitzer Hof	7	Urbach	1	Am Schwanebitzer Hof	7.080332599	50.88211573
+2	Dülkenstr. 18	7	Porz	2	Dülkenstr. 18	7.05251823	50.89036269
+3	Friedrich-Ebert-Ufer	7	Porz	1	Friedrich-Ebert-Ufer	7.054506955	50.88336896
+4	Gütergasse	7	Zündorf	1	Gütergasse	7.045459991	50.869548
+5	Heidestr. (vor Raiffeisenbank)	7	Wahn	1	Heidestr. (vor Raiffeisenbank)	7.087442211	50.85766627
+6	Hirschgraben (Gut Leidenhausen)	7	Eil	2	Hirschgraben (Gut Leidenhausen)	7.088964937	50.89702894
+7	Hohestr. 20	7	Porz	1	Hohestr. 20	7.036468359	50.89641577
+8	Josefstr. 81	7	Porz	1	Josefstr. 81	7.056664433	50.88911313
+9	Josefstr. (Altenheim)	7	Porz	1	Josefstr. 20	7.058013655	50.88614304
+10	Kaiserstr.	7	Urbach	1	Kaiserstr.	7.0815858	50.88133808
+11	Rathausstr. (Wendehammer). Mo-.Fr. 7:00-18:00 Uhr	7	Porz	3	Rathausstr. (Wendehammer). Mo-.Fr. 7:00-18:00 Uhr	7.054345052	50.88572192
+12	Steinstr./Deutzer Weg	7	Porz	2	Steinstr./Deutzer Weg	7.056459235	50.89117848
+13	Urbacher Weg	7	Ensen	4	Urbacher Weg	7.052729992	50.89258211
+14	Am Gräfenhof	8	Brück	2	Am Gräfenhof	7.076005673	50.94445127
+15	Gottfried-Hagen-Str. (Wendehammer)	8	Humboldt/Gremberg	2	Gottfried-Hagen-Str. (Wendehammer)	7.002260526	50.93125858
+16	Kalk-Mülheimer-Str. 2	8	Kalk	1	Kalk-Mülheimer-Str. 2	7.00050971	50.93796294
+17	Kalk-Mülheimer-Str. vor Bürgerhaus Kalk	8	Kalk	2	Kalk-Mülheimer-Str. vor Bürgerhaus Kalk	7.001345527	50.9399899
+18	Ottmar-Pohl-Platz	8	Kalk	5	Ottmar-Pohl-Platz	7.00377174	50.9352923
+19	Rösrather Str. 590 (Apotheke)	8	Rath/Heumar	1	Rösrather Str. 590 (Apotheke)	7.082907536	50.92182444
+20	Sieverstr./Kalkler Hauptstr.	8	Kalk	2	Sieverstr./Kalkler Hauptstr.	7.003201827	50.9377469
+21	Straßburger Platz (Mo.-Fr. 9:00-17:00 Uhr)	8	Neubrück	2	Straßburger Platz (Mo.-Fr. 9:00-17:00 Uhr)	7.059849504	50.93579346
+22	Theodorichstr./Gremberger Str.	8	Humboldt/Gremberg	1	Theodorichstr./Gremberger Str.	6.996784594	50.92992762
+23	Alte Wipperfürther Str. vor 18	9	Buchheim	1	Alte Wipperfürther Str. vor 18	7.015229803	50.95552877
+24	Bergisch Gladbacher Str./Dellbrücker Hauptstr.	9	Dellbrück	1	Bergisch Gladbacher Str./Dellbrücker Hauptstr.	7.070836989	50.97872006
+25	Bergisch Gladbacher Str. 589	9	Holweide	1	Bergisch Gladbacher Str. 589	7.046903557	50.97026527
+26	Buchheimer Str.	9	Mülheim	4	Buchheimer Str.	7.002689669	50.96285279
+27	Höhenhauser Ring (Parkplatz)	9	Stammheim	3	Höhenhauser Ring (Parkplatz)	7.00296627	50.98983529
+28	Holweider Str.. Stichweg zu 4-8	9	Mülheim	3	Holweider Str.. Stichweg zu 4-8	7.010462711	50.96321555
+29	Im Weidenbruch	9	Höhenhaus	1	Im Weidenbruch	7.022342581	50.97983094
+30	Maria-Himmelfahrt-Str. vor Kirche	9	Holweide	1	Maria-Himmelfahrt-Str. vor Kirche	7.044952445	50.96895616
+31	Montanusstr.. Parkplatz vor Bhf.	9	Mülheim	1	Montanusstr.. Parkplatz vor Bhf.	7.011947803	50.95774242
+32	Parkplatz Jan-Wellem-Str.	9	Mülheim	2	Parkplatz Jan-Wellem-Str.	7.005029217	50.96051866
+33	Regentenstr./Keupstr.	9	Mülheim	1	Regentenstr./Keupstr.	7.003913442	50.96728792
+34	Ringenstr.	9	Holweide	1	Ringenstr.	7.037196858	50.96811782
+35	Steyler Str.	9	Holweide	4	Steyler Str.	7.036082188	50.96693155
+36	Ufer Str.	9	Mülheim	1	Ufer Str.	6.999985826	50.96643844
+37	Von-Werth-Str. 37	1	Altstadt/Nord	2	Von-Werth-Str. 37	6.944283975	50.944839
+38	Lothringer Str.	1	Neustadt/Süd	1	Fortschreibung 01/2009	6.951179696	50.92327525
+39	Schillingsrotter Str. (P+R Parkplatz)	2	Rodenkirchen	1	gegenüber der Klinik links am Rhein	6.991462381	50.88908166
+40	P+R Parkplatz KVB-Haltestelle Schillingsrotter Str.	2	Rodenkirchen	1	Zugangsbereich KVB-Haltestelle	6.99068798	50.8903698
+41	Klettenberggürtel 11	3	Klettenberg	1	Klettenberggürtel	6.92922644	50.90946592
+42	Constantinstr. 98	1	Deutz	1	Constantinstr.	6.978952452	50.93849163
+43	Seidenstr. /Adamsstr.	9	Mülheim	1	Umwandlung persönlicher in allgemeinen BHP 7.08.09	7.004659596	50.96458326
+44	Gleueler Str.  (Höhe Hausnummer 70)	3	Lindenthal	1	Nr. 7065/09 ausgeführt 14.07.2009	6.913892896	50.92453
+45	Brücker Mauspfad 544	8	Brück	1	allgemeiner Behindertenparkplatz	7.081760676	50.94481374
+46	Olpener Str. 526	8	Merheim	1	allgemeiner Behindertenparkplatz	7.051810894	50.94325072
+47	Olpener Str. 803	8	Brück	1	allgemeiner Behindertenparkplatz	7.07559738	50.94525828
+48	Olpener Str. 855	8	Brück	1	allgemeiner Behindertenparkplatz	7.078995114	50.94555943
+49	Straßburger Platz (vor dem Kurbad)	8	Neubrück	2	Straßburger Platz 	7.060292977	50.93562002
+50	Cäcilienstr. 46	1	Altstadt/Süd	4	Cäcilienstr. 46	6.950376432	50.93549434
+51	Chlodwigplatz 7	1	Neustadt/Süd	1	Chlodwigplatz 7	6.959168063	50.92134619
+52	Dagobertstr. 32	1	Altstadt/Nord	1	Dagobertstr. 32	6.959828541	50.94834647
+53	Deutzer Freiheit Nr. 89	1	Deutz	1	Deutzer Freiheit 89	6.974780673	50.93683092
+54	Deutzer-Kalker-Str. 2. Mo.-Fr.  8 - 19 h	1	Deutz	1	Deutzer-Kalker-Str. 2	6.978445491	50.93700279
+55	Sinziger Str. 6	2	Marienburg	1	Sinziger Str. 6	6.964466386	50.89781887
+56	Elisenstr. 3	1	Altstadt/Nord	1	Elisenstr. 3	6.949530766	50.94070698
+57	Fleischmengergasse 37	1	Altstadt/Süd	1	Fleischmengergasse 37	6.948708192	50.9342881
+58	Friedenstraße 14	1	Altstadt/Süd	1	Friedenstr. 14	6.953110111	50.92902778
+59	Theophanostraße 38	2	Zollstock	1	Theophanostr. 38	6.941123585	50.9122278
+60	Riehler Str. (gegenüber Zooparkhaus)	5	Riehl	3	Riehler Str. (gegenüber Zooparkhaus)	6.973665773	50.95771782
+61	Cäcilienkloster	1	Altstadt/Süd	1	Cäcilienkloster/Cäcilienstr.	6.952011041	50.93511227
+62	Vondelstr. 4	1	Neustadt/Süd	1	Vondelstr. 4 	6.955210164	50.92061863
+63	Friesenwall 13 - 17	1	Neustadt/Nord	1	Friesenwall 13	6.940479414	50.93745633
+64	Georgplatz 17	1	Altstadt/Süd	1	Georgplatz 17	6.957631184	50.93204964
+65	Georgplatz 5	1	Altstadt/Süd	1	Georgplatz 5	6.957710738	50.93170794
+66	Gereonshof 11	1	Altstadt/Nord	1	Gereonshof 11	6.945447342	50.94269781
+67	Hansaring 48 - 50	1	Neustadt/Nord	1	Hansaring 48	6.949287008	50.9477486
+68	Hansaring 76	1	Neustadt/Nord	1	Hansaring 76	6.953481411	50.94926197
+69	Helenenwallstr. 12	1	Deutz	1	Helenenwallstr. 12	6.975775189	50.93514474
+70	Herkulesstr. 42	1	Neuehrenfeld	1	Herkulesstr. 42	6.933587485	50.952363
+71	Hohenzollernring 30	1	Neustadt/Nord	1	Hohenzollernring 30	6.939545488	50.93850877
+72	Im Ferkulum 35	1	Altstadt/Süd	1	Im Ferkulum 35	6.960066038	50.92414647
+73	Im Ferkulum 4	1	Altstadt/Süd	1	Im Ferkulum 4	6.959497528	50.9222915
+74	Im Klapperhof 39	1	Altstadt/Nord	1	Im Klapperhof 39	6.941654493	50.94165301
+75	Im Laach 18	1	Altstadt/Süd	1	Im Laach 18	6.945994339	50.93536661
+77	Jakobstr. 22	1	Altstadt/Süd	2	Jakobstr. 22	6.957117282	50.92557248
+79	Kaltenbornweg 2. Deutz	1	Deutz	2	Kaltenbornweg 2	6.978794457	50.92607081
+80	Kardinal-Frings-Straße 3	1	Altstadt/Nord	1	Kardinal-Frings-Str. 3	6.951660213	50.94460994
+81	Kleiner Griechenmarkt 41 - 43	1	Neustadt/Süd	1	Kleiner Griechenmarkt 41	6.948519682	50.9319062
+82	Krebsgasse 5	1	Altstadt/Nord	2	Krebsgasse 5	6.950138366	50.93816818
+83	Kronengasse 7	1	Altstadt/Nord	1	Kronengasse 7	6.950224508	50.93603755
+84	Lindenstr. 60	1	Neustadt/Süd	1	Lindenstr. 60	6.934833014	50.93333769
+85	Lindenstr. 078	1	Neustadt/Süd	1	Lindenstr. 78	6.933783188	50.93277078
+86	Lübecker Str. 20	1	Neustadt/Nord	1	Lübecker Str. 20	6.954008478	50.95004747
+87	Lungengasse 11	1	Altstadt/Süd	3	Lungengasse 11	6.94857018	50.93487644
+88	Lupusstr. 24	1	Neustadt/Nord	1	Lupusstr. 24	6.958867419	50.95322577
+89	Luxemburger Str. 9	1	Neustadt/Süd	1	Luxemburger Str. 9	6.940859356	50.92841403
+90	Machabäerstr. 26a / AOK	1	Altstadt/Nord	2	Machabäerstr. 26a	6.958011784	50.94657062
+91	Machabäerstr. 59	1	Altstadt/Nord	1	Machabäerstr. 59	6.961104601	50.94629362
+92	Mainzer Straße 5	1	Neustadt/Süd	1	Mainzer Str. 5	6.963970939	50.92105987
+93	Marienplatz 8	1	Altstadt/Süd	1	Marienplatz 8	6.957739223	50.93397532
+94	Mauritiussteinweg 81/ 83	1	Altstadt/Süd	1	Mauritiussteinweg 81	6.944942354	50.93463345
+96	Reinoldstraße 13	1	Altstadt/Süd	1	Reinoldstr. 13	6.946110957	50.93308973
+97	Richartzstraße 6 - 8	1	Altstadt/Nord	1	Richartzstr. 6	6.955497272	50.93934751
+98	Rolandstr. 61	1	Neustadt/Süd	1	Rolandstr. 61	6.956841719	50.91888446
+99	Rolandstr. 74	1	Neustadt/Süd	1	Rolandstr. 74	6.956166795	50.91926684
+100	Rubensstr. 13	1	Altstadt/Süd	1	Rubensstr. 13	6.942982203	50.93404133
+101	Schaafenstrasse. vor Haus-Nr. 7	1	Altstadt/Süd	1	Schaafenstr. 7	6.9426148	50.93491843
+103	Severinstr. 93	1	Altstadt/Süd	1	Severinstr. 93	6.958175891	50.92596565
+105	Severinstraße 7	1	Altstadt/Süd	1	Severinstr. 7	6.959208999	50.92227139
+106	Spichernstr. 2	1	Neustadt/Nord	1	Spichernstr. 2	6.935891719	50.9424647
+107	St.-Apern-Str. 10 - 12	1	Altstadt/Nord	1	St.-Apern-Str. 10	6.945382657	50.93914722
+108	Theodor-Heuss-Ring 62	1	Neustadt/Nord	1	Theodor-Heuss-Ring 62	6.965518266	50.94992379
+109	Thürmchenswall 19	1	Altstadt/Nord	1	Thürmchenswall 19	6.959497181	50.94933804
+110	Trajanstraße 3	1	Neustadt/Süd	1	Ggü. Trajanstr. 3	6.965000193	50.91949461
+111	Trierer Str. 29	1	Neustadt/Süd	1	Trierer Str. 29	6.943201494	50.92768755
+112	Von-Sandt-Platz 9	1	Deutz	1	Von-Sandt-Platz 9	6.976806659	50.9388329
+113	Vorgebirgstr. 118-120	1	Altstadt/Nord	2	Vorgebirgstr. 118	6.94595212	50.91283759
+114	Zülpicher Platz 12	1	Neustadt/Süd	3	Zülpicher Platz 12	6.939723097	50.93072917
+115	Am Vorgebirgstor 9	2	Zollstock	1	Am Vorgebirgstor 9	6.945929522	50.91517113
+116	An der Fuhr 4	2	Meschenich	2	An der Fuhr 4	6.926269609	50.86316827
+117	Bayenthalgürtel 34	2	Marienburg	1	Bayenthalgürtel 34	6.972195321	50.90495948
+118	Bernhard-Feilchenfeld-Str. 11	2	Zollstock	2	Bernhard-Feilchenfeld-Str. 11	6.941878537	50.91539504
+119	Bonner Str. 244	2	Bayenthal	1	Bonner Str. 244	6.963051639	50.90845727
+120	Brühler Str. 17/19	2	Raderberg	1	Brühler Str. 17	6.961269711	50.90894979
+121	Elisabeth-Selbert-Straße 32 - 34	2	Sürth	1	Elisabeth-Selbert-Str. 32	7.006945498	50.8669379
+122	Goltsteinstr. 69	2	Bayenthal	1	Goltsteinstr. 69	6.969365764	50.91020176
+123	Hauptstr. 41	2	Rodenkirchen	1	Hauptstr. 41	6.993505871	50.89438569
+124	Hauptstr. 85 (Parkpl./ Rathaus)	2	Rodenkirchen	1	Hauptstr. 85	6.996756292	50.89227992
+125	Homburger Straße 16	2	Zollstock	1	Homburger Str. 16	6.947646329	50.91326369
+126	Höninger Platz 25	2	Zollstock	1	Höninger Platz 25	6.943845977	50.90079554
+127	Höninger Weg 123	2	Zollstock	1	Höninger Weg von 115 auf 123	6.941056996	50.91486156
+128	Höninger Weg 210	2	Zollstock	1	Höninger Weg 210	6.941227099	50.90975355
+129	Kierberger Str. 23	2	Zollstock	1	Kierberger Str. 23	6.94616822	50.90982389
+130	Koblenzer Str. 58	2	Bayenthal	1	Koblenzer Str. 58	6.965717099	50.91305685
+131	Marktstr. 61	2	Raderberg	1	Marktstr. 61	6.955008866	50.91080007
+132	Nibelungenweg/Schillingsrotter Str.	2	Rodenkirchen	1	Ersatz für Maternusplatz 10	6.993548557	50.89170274
+133	Wilhelmstr./Maternusstr.	1	Rodenkirchen	1	Ersatz für Maternusplatz 	6.992980718	50.89248967
+135	Raderthalgürtel 8-10	2	Raderthal	1	Raderthalgürtel 8	6.948744894	50.90432328
+136	Zollstocksweg 13	2	Zollstock	1	Zollstocksweg 13	6.941778521	50.90952231
+137	Hauptstraße (Zündorf) 358	7	Porz	1	Hauptstraße (Zündorf) 358	7.055611248	50.88108707
+138	Aachener Str. 217	3	Lindenthal	1	Aachener Str. 217	6.921580006	50.93644365
+139	Aachener Str. 445	3	Lindenthal	1	Aachener Str. 445	6.90492931	50.93694493
+140	Aachener Str. 451	3	Lindenthal	1	Aachener Str. 451	6.90405301	50.93683569
+141	Heidestr. 204	7	Wahnheide	1	Heidestr. 204	7.103601852	50.85898504
+142	Aachener Str. 455	3	Lindenthal	1	Aachener Str. 455	6.903220692	50.93695181
+143	Alter Militärring 18/20	3	Müngersdorf	2	Alter Militärring 18	6.881460399	50.93878032
+144	Karlstr. Höhe Haus Nr. 10	7	Porz	1	Karlstr. 10	7.056385611	50.88542422
+145	Karlstr.. Höhe 6 - 8	7	Porz	2	Karlstr. 6	7.056230968	50.8854231
+146	Am Weidenpesch 21	3	Junkersdorf	2	Am Weidenpesch 21	6.856345441	50.93227375
+147	Bachemer Straße 201	3	Lindenthal	1	Bachemer Str. 201	6.909002782	50.92590472
+148	Emmastr. 21-23	3	Sülz	2	Emmastraße vor Haus Nr. 21 und Nr. 23	6.926875669	50.9169251
+149	Berrenrather Str. 230/232	3	Sülz	1	Berrenrather Str. 230	6.925748566	50.91879324
+150	Berrenrather Str. 280	3	Sülz	1	Berrenrather Str. 280	6.923658569	50.9171137
+151	Berrenrather Straße 210	3	Sülz	1	Berrenrather Str. 210	6.926477159	50.91937898
+152	Bunzlauer Str. 3	3	Weiden	1	Bunzlauer Str. 3	6.836979936	50.93762091
+153	Bunzlauer Straße 5	3	Weiden	2	Bunzlauer Str. 5	6.837259216	50.93713305
+154	Dürener Str. 92	3	Lindenthal	1	Dürener Str. 92	6.92048624	50.93212341
+155	Dürener Str. 102	3	Lindenthal	1	Dürener Str. 102	6.919799725	50.93189021
+156	Dürener Str. 164	3	Lindenthal	1	Dürener Str. 164	6.915442508	50.93037244
+157	Dürener Str. 339	3	Lindenthal	1	Dürener Str. 339	6.898145567	50.92602554
+158	Dürener Str. 350	3	Lindenthal	1	Dürener Str. 350	6.896298804	50.92546005
+159	Eupener Straße 135 - 137	3	Braunsfeld	1	Eupener Str. 135	6.889441456	50.94437258
+160	Euskirchener Straße 2	3	Sülz	1	Euskirchener Str. 2	6.919897265	50.91989109
+161	Franzstr. 16	3	Lindenthal	1	Franzstr. 16	6.912929268	50.92515307
+162	Franzstr. 8 - 10	3	Lindenthal	1	Franzstr. 8	6.914435283	50.92573924
+163	Gerolsteiner Str. 101	3	Sülz	2	Gerolsteiner Str. 101	6.919205815	50.91865077
+164	Gleueler Str. 184	3	Lindenthal	1	Gleueler Str. 184	6.909121661	50.92241866
+165	Hans-Willy-Mertens-Straße 2	3	Weiden	1	Hans-Willy-Mertens-Str. 2	6.836747695	50.93877976
+166	Lindenthalgürtel 56	3	Lindenthal	1	Lindenthalgürtel 56	6.911899907	50.92438306
+167	Luxemburger Str. 101. Landgericht/Amtsgericht	3	Sülz	2	Luxemburger Str. 101	6.93520277	50.92259843
+168	Luxemburger Str. 285c	3	Klettenberg	1	Luxemburger Str. 285c	6.926248683	50.91432829
+169	Robert-Koch-Straße 4	3	Lindenthal	1	Robert-Koch-Str. 4	6.923864065	50.92365891
+170	Rurstraße 11	3	Lindenthal	1	Rurstr. 11	6.915255178	50.92204221
+171	Scheffelstr. 23-31	3	Lindenthal	1	Scheffelstr. 23	6.908794676	50.9246392
+172	Sülzburgstr. 17	3	Sülz	1	Sülzburgstr. 17	6.926189382	50.91660438
+173	Sülzburgstr. 261	3	Lindenthal	1	Sülzburgstr. 261	6.917340675	50.92217329
+174	Sülzgürtel 16	3	Sülz	1	Sülzgürtel 16	6.922809143	50.91315091
+175	Sülzgürtel 42	3	Sülz	1	Sülzgürtel 42	6.919635196	50.91529064
+176	Vogelsanger Weg 4	3	Junkersdorf	1	Vogelsanger Weg 2	6.85356886	50.93298333
+177	Widdersdorfer Landstraße 10	3	Lövenich	2	Widdersdorfer Landstr. 10	6.829170417	50.94875771
+178	Zülpicher Straße 223	3	Sülz	2	Zülpicher Str. 223	6.925747242	50.92353086
+179	Fridolinstr. 39	4	Neuehrenfeld	1	Fridolinstr. 39	6.921611776	50.95427357
+180	Görlinger Zentrum 2 - 8	4	Bocklemünd/Mengenich	2	Görlinger-Zentrum 2	6.865248838	50.97966013
+181	Görlinger Zentrum 5	4	Bocklemünd/Mengenich	1	Görlinger-Zentrum 5	6.865824695	50.98027393
+182	Graeffstr. 1 - 5	4	Neuehrenfeld	1	Graeffstr. 1	6.933123411	50.95020548
+183	Kolkrabenweg 8 - 10	4	Vogelsang	4	Kolkrabenweg 8. auf Parkplatz Kolkrabenweg	6.878377854	50.96453251
+184	Lenauplatz 5	4	Neuehrenfeld	1	Lenauplatz 5	6.919129854	50.95738884
+185	Maarweg 130	4	Ehrenfeld	2	Maarweg 130	6.898445296	50.9438341
+186	Mechternstr. 27/Barthelstraße	4	Ehrenfeld	1	Mechternstr. 27	6.919870147	50.94418573
+187	Ollenhauerring 41	4	Bocklemünd/Mengenich	1	Ollenhauerring 41	6.866757071	50.97919908
+188	Roßstr. 13	4	Neuehrenfeld	1	Roßstr. 13	6.921880826	50.94423942
+189	Subbelrather Str. 277	4	Ehrenfeld	1	Subbelrather Str. 277	6.916752645	50.95503684
+190	Venloer Str. 425 a - b	4	Ehrenfeld	3	Venloer Str. 425b	6.913100791	50.95248559
+191	Vogelsanger Str. 89	4	Ehrenfeld	1	Vogelsanger Str. 89	6.921142236	50.94536532
+192	An der Schanz 1	5	Riehl	1	An der Schanz 1	6.981768357	50.96175353
+193	Baudristr. 6	5	Nippes	1	Baudristr. 6	6.952982573	50.96439795
+194	Christinastr. 62/Wilhelmstraße	5	Nippes	1	Christinastr. 62	6.952719608	50.9630137
+195	Industriestr. 16	5	Niehl	1	Industriestr. 16	6.94786699	50.99905821
+197	Kapuzinerstr. 6	5	Weidenpesch	2	Kapuzinerstr. 6	6.945524346	50.98340195
+198	Neusser Str. 210	5	Nippes	1	Neusser Str. 210	6.954486857	50.96153668
+199	Neusser Str. 234	5	Nippes	3	Neusser Str. 234	6.954186023	50.96282548
+201	Neusser Str. 284 - 286	5	Nippes	1	Neusser Str. 284	6.953734463	50.96485772
+202	Neusser Str. 352	5	Nippes	1	Neusser Str. 352	6.953088572	50.96807956
+203	Neusser Str. 401	5	Nippes	1	Neusser Str. 401	6.952123541	50.97046761
+204	Neusser Str. 570/Derfflinger Straße	5	Weidenpesch	1	Neusser Str. 570	6.948219999	50.98046725
+205	Neusser Str. vor Haus-Nr. 460	5	Nippes	2	Neusser Str. 460	6.951738702	50.97331127
+206	Niehler Str. 308	5	Niehl	1	Niehler Str. 308	6.959980003	50.97541776
+207	Sechzigstr. 22b/Dormagener Straße	5	Nippes	1	Sechzigstr. 22b	6.947666126	50.95975894
+208	Stammheimer Str. 54	5	Riehl	1	Stammheimer Str. 54	6.974625243	50.96227442
+209	Viersener Str. 4	5	Nippes	1	Viersener Str. 4	6.953058082	50.96359432
+210	Viersener Str. 14/Auguststraße	5	Nippes	2	Viersener Str. 14	6.951841276	50.96342351
+211	Wilhelmstr. 56 - 58	5	Nippes	1	Wilhelmstr. 56	6.95296551	50.9628332
+212	Wilhelmstr. 59/Auguststraße	5	Nippes	1	Wilhelmstr. 59	6.95212051	50.96267638
+213	Yorckstr. 10	5	Nippes	1	Yorckstr. 10	6.954655294	50.96520826
+214	Athener Ring 4 (Stadthaus Chorweiler)	6	Chorweiler	5	Athener Ring 4. Zufahrt über Salzburger Hof	6.895663227	51.02046984
+215	Florenzer Str. 82	6	Chorweiler	1	Florenzer Str. 82	6.894637199	51.02137244
+216	Ernst-Mühlendyck-Str. 1	7	Porz	1	Ernst-Mühlendyck-Str. 1	7.057689484	50.88252182
+217	Goethestr. Höhe Haus Nr. 17	7	Porz	1	Goethestr. 17. Porz	7.060151665	50.88481357
+218	Guntherstr. 78	7	Wahnheide	1	Guntherstr. 78. Wahnheide	7.100201352	50.85818737
+219	Hauptstr. 426 (Parkplatz Berufskolleg)	7	Porz	1	Hauptstr. 426	7.055958896	50.8864503
+220	Komödienstr. gegenüb. Andreaskloster	1	Altstadt/Nord	2	Komödienstr. gegenüb. Andreaskloster	6.955565366	50.9416514
+221	Kunibertskloster	1	Altstadt/Nord	2	Kunibertskloster 11-13. Marien-Hospital	6.962678555	50.94733376
+223	Lindenstr.	1	Neustadt/Süd	1	Lindenstr.	6.936258695	50.93394519
+224	Siegburger Str. 359 in Höhe Kölner Bank	7	Poll	1	Siegburger Str. 359	6.990595502	50.91663613
+225	Siegburger Str. 364	7	Poll	1	Siegburger Str. 364	6.990689702	50.91645895
+226	Siegburger Str. 368	7	Poll	1	Siegburger Str. 368	6.991206893	50.91619995
+227	Stollwerckstraße 35	7	Westhoven	2	Stollwerckstr. 35	7.030171346	50.90683693
+228	Brücker Mauspfad 613	8	Brück	1	Brücker Mauspfad 613	7.079668147	50.947892
+229	Buchforststr. gegenüber 1 - 15	8	Kalk	2	Buchforststr. 3	7.008782888	50.94113199
+231	Kalker Hauptstr. 64	8	Kalk	1	Kalker Hauptstr. 64	6.99738001	50.93731332
+232	Kalker Hauptstr. 166	8	Kalk	1	Kalker Hauptstr. 166	7.00472619	50.93814884
+233	Venloer Str. 247	4	Ehrenfeld	1	Venloer Str. 247	6.922941584	50.947181
+234	Strundener Str.	9	Dellbrück	1	Strundener Str. 158	7.087645487	50.9713521
+235	Buchforststr. 14	8	Kalk	2	Buchforststr. 14 vor dem Ärztehaus	7.008604762	50.94217656
+236	Thurner Str. 105a	9	Dellbrück	1	Parkplatz für die evangelische Kirche	7.084579636	50.97357166
+237	Aachener Str. 555	3	Braunsfeld	1	Aachener Str. 555	6.896426792	50.93713027
+238	Nikolausstr. 132	3	Lindenthal	1	Nikolausstr. 132	6.923539257	50.91990687
+239	Kalker Hauptstr. 275	8	Kalk	1	Kalker Hauptstr. 275	7.010035369	50.93925988
+240	Kalker Hauptstr. Höhe Hs. Nr. 82	8	Kalk	1	Kalker Hauptstr. 82	6.999645058	50.9375655
+241	Olpener Str. 160	8	Höhenberg	1	Olpener Str. 160	7.024444658	50.94024294
+243	Rolshover Str. 120	8	Humboldt/Gremberg	1	Rolshover Str. 120	7.000293208	50.93070857
+244	Rolshover Str. 4 - 6	8	Kalk	2	Rolshover Str. 4	7.00023665	50.93730033
+245	Servatiusstr. 7	8	Ostheim	1	Servatiusstr. 7	7.047307083	50.93091995
+246	Taunusstr. 2	8	Humboldt/Gremberg	1	Taunusstr. 2	6.997424398	50.93487118
+247	An der Kemperwiese vor Haus Nr. 3	9	Dellbrück	2	An der Kemperwiese 3	7.074746341	50.97597147
+248	Augustastraße Höhe Haus Nr. 6	9	Mülheim	1	Augustastr. 6	7.008813779	50.95734337
+249	Bergisch Gladbacher Str. 700	9	Holweide	1	Bergisch Gladbacher Str. 700	7.05340635	50.97248477
+250	Bergisch Gladbacher Str. Höhe 599	9	Holweide	1	Bergisch Gladbacher Str. Höhe 599	7.047849312	50.97058118
+251	Berliner Str. vor Hs-Nr. 77 Selbsth.Teestube e.V.	9	Mülheim	1	Berliner Str. 77	7.010686921	50.97239523
+252	Buchheimer Straße 53/59	9	Mülheim	2	Buchheimer Str. 53	7.003313355	50.96247994
+253	Dellbrücker Hauptstraße 170-172	9	Dellbrück	1	Dellbrücker Hauptstr. 170	7.069129093	50.98009777
+254	Dellbrücker Hauptstraße vor Haus 77	9	Dellbrück	1	Dellbrücker Hauptstr. 77	7.074006113	50.97520075
+255	Elisabeth-Breuer-Straße 10	9	Mülheim	2	Elisabeth-Breuer-Str. 10	7.009487252	50.96002715
+256	Elisabeth-Breuer-Straße 24	9	Mülheim	1	Elisabeth-Breuer-Str. 24	7.010002983	50.96045899
+257	Eulenbergstraße Höhe Haus Nr. 8	9	Mülheim	2	Eulenbergstr. 8	7.00658051	50.96166737
+258	Evergerstr. 27	9	Flittard	1	Evergerstr. 27	6.979725159	51.00119757
+259	Frankfurter Straße 89	9	Mülheim	1	Frankfurter Str. 89	7.013350349	50.95606885
+260	Frankfurter Straße Höhe Haus Nr. 30/32	9	Mülheim	1	Frankfurter Str. 30	7.006884362	50.96050515
+261	Frankfurter Straße Höhe Haus Nr. 91	9	Buchheim	1	Frankfurter Str. 91	7.013391862	50.95604321
+262	Idastraße zwischen Haus Nr. 48-46	9	Dellbrück	2	Idastr. 48	7.070976958	50.97788815
+263	Jan-Wellem-Straße Höhe Haus Nr. 1	9	Mülheim	3	Jan-Wellem-Str. 1	7.005292044	50.96065094
+264	Lassallestraße 59	9	Mülheim	1	Lassallestr. 59	7.008021118	50.95849091
+265	Merkerhofstraße vor Haus Nr. 9	9	Mülheim	1	Merkerhofstr. 9	7.00649379	50.96002553
+266	Modemannstr.25	9	Buchheim	3	Modemannstr. 25	7.019152548	50.9508731
+267	Schweidnitzer Str.27	9	Dünnwald	1	Schweidnitzer Str. 27	7.032341699	50.99687133
+268	Agrippastr.	1	Altstadt/Süd	1	Agrippastr. 1	6.955898675	50.93345229
+269	Alter Mühlenweg. gegü Kita	1	Deutz	2	Alter Mühlenweg. gegü Kita	6.976187627	50.93048292
+270	An den Dominikanern	1	Altstadt/Nord	1	An den Dominikanern 2a	6.955152508	50.94262805
+271	An der Rechtschule	1	Altstadt/Nord	2	An der Rechtschule 2	6.955257785	50.94021644
+272	Auenweg/Eingang Rheinpark	1	Deutz	2	Auenweg/Eingang Rheinpark	6.975119166	50.94601917
+273	Auf dem Berlich/Schwalbengasse	1	Altstadt/Nord	1	Auf dem Berlich 24	6.947832356	50.93994991
+274	Bischofsgartenstr. (Philharmonie)	1	Altstadt/Nord	2	Bischofsgartenstr. (Philharmonie)	6.961065265	50.94041463
+275	Blaubach	1	Altstadt/Süd	2	Blaubach	6.956988609	50.93312254
+276	Bolzengasse	1	Altstadt/Nord	1	Bolzengasse 5	6.95933052	50.93666686
+277	Breslauer Platz	1	Altstadt/Nord	2	Breslauer Platz gegenüber Hausnummer 4/HRS	6.959456945	50.94393426
+279	Rathausplatz	1	Altstadt/Nord	3	Rathausplatz	6.958798752	50.93827025
+280	Kasinostr.	1	Altstadt/Süd	2	Kasinostr. 5	6.957204859	50.93479573
+281	Claudiusstr. (vor FH)	1	Neustadt/Süd	1	Claudiusstr. (vor FH)	6.966739803	50.91957038
+282	Constantinstr.	1	Deutz	1	Constantinstr. 94	6.978020207	50.93904209
+283	Custodiusstr.	1	Deutz	2	Custodiusstr. 10	6.979922519	50.93299584
+284	Dagobertstr.. vor Rewe	1	Altstadt/Nord	2	Dagobertstr.. vor Rewe	6.957003902	50.94848848
+285	Ehrenstr.	1	Altstadt/Nord	1	Ehrenstr.	6.944020182	50.93848411
+287	Eifelwall	1	Neustadt/Süd	1	Eifelwall	6.939007874	50.92390242
+288	Fleischmengergasse/Lungengasse	1	Altstadt/Süd	3	Fleischmengergasse/Lungengasse	6.948849842	50.93504639
+289	Glockengasse (gegenüb. Oper)	1	Altstadt/Nord	2	Glockengasse (gegenüb. Oper)	6.952092949	50.93829708
+293	Händelstr./Richard-Wagner-Str.	1	Neustadt/Süd	2	Händelstr. 28	6.936765021	50.93519278
+294	Heinrichstr./Steinstr.	1	Altstadt/Süd	1	Heinrichstr. 50	6.951792644	50.92754271
+295	Hohenstauffenring/Jahnstr.	1	Neustadt/Süd	2	Hohenstauffenring 30	6.940768376	50.93142609
+296	Im Laach	1	Altstadt/Süd	1	Im Laach	6.945870988	50.93561801
+297	Innere Kanalstr. (Finanzamt)	1	Neustadt/Nord	2	Innere Kanalstr. (Finanzamt)	6.953194456	50.95620121
+298	Johannisstr. (vor dem Jarkordenhaus)	1	Altstadt/Nord	1	Johannisstr. (vor dem Jarkordenhaus)	6.960777414	50.94530143
+299	Kamekestr./Werderstr.	1	Neustadt/Nord	1	Kamekestr./Werderstr.	6.937798442	50.94250218
+300	Kennedy-Ufer	1	Deutz	1	Kennedy-Ufer	6.968984014	50.93851405
+301	Lungengasse gegenüb. Sanitätshaus Stortz	1	Altstadt/Süd	1	Lungengasse gegenüb. Sanitätshaus Stortz	6.948661428	50.93492375
+302	Lützowstr.	1	Neustadt/Süd	2	Lützowstr.	6.932583009	50.93308876
+303	Magnusstr./Hohenzollernring	1	Altstadt/Nord	2	Magnusstr./Hohenzollernring	6.940458529	50.94043152
+304	Markmannsgasse/Buttermarkt	1	Altstadt/Nord	3	Markmannsgasse/Buttermarkt	6.96238732	50.93663885
+305	Marsilstein	1	Altstadt/Süd	1	Marsilstein	6.944440146	50.93524815
+306	Martinstr./Obermarspforten	1	Altstadt/Nord	2	Martinstr. 39	6.958801239	50.93742912
+307	Mauritiuskirchplatz	1	Altstadt/Süd	1	Mauritiuskirchplatz	6.943938484	50.93351993
+308	Maybachstr. (MediaPark Klinik)	1	Neustadt/Nord	2	Maybachstr. (MediaPark Klinik)	6.94785539	50.94828463
+309	Merowinger Str. 57	1	Neustadt/Süd	1	Merowinger Str. 57	6.955782799	50.92025923
+310	Merowinger Str. 5-7	1	Neustadt/Süd	1	Merowinger Str. 5-7	6.95863654	50.92084095
+311	Mittelstr./Apostelnkloster	1	Altstadt/Nord	2	Mittelstr./Apostelnkloster	6.943670733	50.9368714
+312	Moltkestr. 88	1	Neustadt/Nord	1	Moltkestr. 88	6.932782056	50.93970676
+313	Mörsergasse (gegenüb. WDR)	1	Altstadt/Nord	1	Mörsergasse (gegenüb. WDR)	6.951941383	50.93962718
+314	Neumarkt (Westseite Westfb.)	1	Altstadt/Nord	2	Neumarkt (Westseite Westfb.)	6.945986367	50.93623492
+315	Neusser Wall	1	Neustadt/Nord	1	Neusser Wall	6.958031711	50.9557129
+316	Neven-Du-Mont-Str.	1	Altstadt/Nord	1	Neven-Du-Mont-Str.	6.950680766	50.93921457
+317	Pastor-Könn-Platz (Neumarkt 24)	1	Altstadt/Nord	2	Pastor-Könn-Platz (Neumarkt 24)	6.945705122	50.93652297
+318	Prälat-Otto-Müller-Platz	1	Neustadt/Nord	1	Prälat-Otto-Müller-Platz	6.953717567	50.95450339
+319	Reichenspergerplatz (vor Gericht)	1	Neustadt/Nord	2	Reichenspergerplatz (vor Gericht)	6.962889989	50.95445875
+320	Reischplatz/Deutzer Freiheit	1	Deutz	1	Reischplatz/Deutzer Freiheit	6.976523814	50.93677837
+321	Sachsenbergstr. (Thermalbad Köln-Deutz)	1	Deutz	5	Sachsenbergstr. (Thermalbad Köln-Deutz)	6.980233896	50.95110994
+323	Schillingstr./Riehler Str.	1	Neustadt/Nord	1	Schillingstr./Riehler Str.	6.960122795	50.952032
+324	Siegfriedstr. geg. Nr. 15	1	Neustadt/Süd	2	Siegfriedstr. geg. Nr. 15	6.962708308	50.91754324
+325	Spielmannsgasse	1	Altstadt/Süd/Süd	2	Spielmannsgasse	6.95925395	50.92924705
+326	St.-Apern-Str. 44-46	1	Altstadt/Nord	1	St.-Apern-Str. 44-46	6.946177701	50.94025031
+327	Stolkgasse (Seniorenresidenz)	1	Altstadt/Nord	1	Stolkgasse (Seniorenresidenz)	6.953871866	50.94324537
+328	Sudermannplatz	1	Neustadt/Nord	2	Sudermannplatz	6.955145471	50.95125084
+329	Tempelstr. 41/43	1	Deutz	1	Tempelstr.	6.973186807	50.93490225
+330	Teuteburger Str. 10	1	Neustadt/Süd	1	Teuteburger Str. 10	6.961464326	50.91852199
+331	Thieboldsgasse/Lungengasse	1	Altstadt/Süd	2	Thieboldsgasse/Lungengasse	6.947657001	50.93483149
+333	Weyerstr. 40-42	1	Altstadt/Süd	2	Weyerstr. 40-42	6.945442839	50.93036288
+334	Zeughausstr. (vor Stadtmuseum)	1	Altstadt/Nord	2	Zeughausstr. (vor Stadtmuseum)	6.950017623	50.94141029
+335	Zugweg	1	Neustadt/Süd	2	Zugweg	6.956272953	50.91727971
+336	Mauritiussteinweg 3-5	1	Altstadt/Süd	1	Mauritiussteinweg in Höhe Häusergrenze 3-5	6.946852151	50.93075557
+337	Clarenbachstr. 180	3	Lindenthal	2	vor Clarenbachstr. 180 	6.914688509	50.93591696
+338	Berlin-Kölnische-Allee	2	Zollstock	1	Berlin-Kölnische-Allee	6.939416573	50.91756701
+339	Fronhofstr.. Köln-Sürth	2	Sürth	1	Fronhofstr.. Köln-Sürth	7.007518538	50.86200681
+340	Gottesweg (hinter Einm. Willigisstr.)	2	Zollstock	1	Gottesweg (hinter Einm. Willigisstr.)	6.942467314	50.91072652
+341	Gustav-Radbruch-Str.	2	Rodenkirchen	2	Gustav-Radbruch-Str.	6.995404969	50.89248613
+342	Kröverstr. 8	2	Zollstock	1	Kröverstr. 8	6.939765604	50.91321893
+343	Oststr.	2	Rodenkirchen	2	Oststr.	6.995948821	50.89262822
+344	Oststr. (vor Einm. Barbarastr.)	2	Rodenkirchen	1	Oststr. (vor Einm. Barbarastr.)	6.996593757	50.89343926
+345	Schanzenstr. (vor E-Werk)	9	Mülheim	1	Schanzenstr. (vor E-Werk)	7.016414663	50.96926437
+346	Aachener Str.. vor Oskar-Jäger-Str. (Melatenfriedhof)	3	Lindenthal	2	Aachener Str.. vor Oskar-Jäger-Str. (Melatenfriedhof)	6.913783239	50.93697661
+347	Am Sportpark Müngersdorf	3	Müngersdorf	5	ehemals Carl-Diem-Weg	6.870186427	50.93464559
+348	Euskirchener Str./Blankenheimer Str.	3	Sülz	1	Euskirchener Str./Blankenheimer Str.	6.917661756	50.9185319
+349	Girlitzweg (S-Bahn Haltestelle)	4	Vogelsang	1	Girlitzweg (S-Bahn Haltestelle)	6.887544344	50.94915286
+350	Kerpener Str./Universitätsstr.	3	Lindenthal	2	Kerpener Str./Universitätsstr.	6.928780331	50.9254789
+351	Kronstädter Str.. gegenüb. 77-101	3	Weiden	1	Kronstädter Str.. gegenüb. 77-101	6.841796542	50.93123018
+352	Landgrafenstr./Uhlandstr.	3	Lindenthal	1	Landgrafenstr./Uhlandstr.	6.910939711	50.92753628
+353	Oskar-Jäger-Str./Stolberger Str.	3	Braunsfeld	1	Oskar-Jäger-Str./Stolberger Str.	6.909160993	50.94176796
+354	Paul-Schällück-Str.	3	Sülz	2	Paul-Schällück-Str.	6.934314949	50.92149974
+355	Piusstr..Eingang Melatenfriedhof	3	Lindenthal	2	Piusstr..Eingang Melatenfriedhof	6.922242308	50.93911377
+356	Stolberger Str./Geilenkircher Str.	3	Braunsfeld	2	Stolberger Str./Geilenkircher Str.	6.895897293	50.94203951
+357	Sülzburgstr. (vor City-Bank)	3	Sülz	1	Sülzburgstr. (vor City-Bank)	6.925430664	50.91697746
+358	Weishausstr./Luxemburger Str.	3	Klettenberg	1	Weishausstr./Luxemburger Str.	6.933315532	50.92053496
+359	Görlinger Zentrum. gegenüb. Nr.26	4	Bocklemünd/Mengenich	1	Görlinger Zentrum. gegenüb. Nr.26	6.868387975	50.97962433
+360	Iltisstr.	4	Neuehrenfeld	1	Iltisstr. (vor Hausnummer 18)	6.918463745	50.95859083
+361	Landmannstr./Försterstr.	4	Neuehrenfeld	1	Landmannstr./Försterstr.	6.919368002	50.95688007
+362	Stammstr.. geg. Gaststätte "Am Bahnhof"	4	Ehrenfeld	1	Stammstr.. geg. Gaststätte "Am Bahnhof"	6.919203555	50.95145248
+363	Subbelrather Str. geg. 260-262	4	Ehrenfeld	2	Subbelrather Str. geg. 260-262	6.918199928	50.95446979
+364	Baudriplatz	5	Nippes	2	Baudriplatz	6.951573957	50.96439253
+365	Lohsestr.. geg. 1	5	Nippes	1	Lohsestr.. geg. 1	6.954456237	50.9590011
+366	Neusser Str./Gürtel vor Eingang U-Bahn	5	Nippes	2	Neusser Str./Gürtel vor Eingang U-Bahn	6.951188929	50.97295233
+367	Riehler Gürtel (Nebeneingang Zoo)	5	Riehl	3	Riehler Gürtel (Nebeneingang Zoo)	6.976473669	50.96375728
+368	Schillstr. geg. Nr. 1	5	Nippes	1	Schillstr. geg. Nr. 1	6.952882334	50.96662422
+369	Siebachstr. 22b	5	Nippes	1	Siebachstr. 22b	6.950137461	50.95964623
+370	Siebachstr. geg. Nr. 29-31	5	Nippes	1	Siebachstr. 29	6.950217351	50.95932247
+371	Bruchstr.	6	Roggendorf/Thenhoven	1	P+R Bruchstr.	6.852606089	51.05165146
+372	Hermann-Pünder-Str.	1	Deutz	1	Hermann-Pünder-Str.	6.970865328	50.93985796
+373	Zülpicher Str.	3	Lindenthal	2	Zülpicher Str.	6.932924986	50.92712041
+374	Friedrichstr.	1	Neustadt/Süd	1	Friedrichstr. 60	6.941472912	50.93077998
+375	Rösrather Str. 603	8	Rath/Heumar	2	Parkplatz Bürgerzentrum Kalk	7.084564011	50.92244394
+376	Aachener Str. 3	1	Neustadt/Süd	2	Aachener Str. 3	6.937059711	50.93642232
+377	Aachener Str. 8	1	Neustadt/Süd	2	Aachener Str. 8	6.938036007	50.93649973
+378	Aachener Str. 96	1	Lindenthal	1	Aachener Str. 96	6.929652067	50.9368681
+379	Albertusstr. 55	1	Altstadt/Nord	1	Albertusstr. 55	6.943944883	50.94070511
+380	An der Bottmühle	1	Altstadt/Süd	3	An der Bottmühle 3	6.963053781	50.92227578
+381	Auf dem Berlich 1	1	Altstadt/Nord	1	Auf dem Berlich 1	6.947723445	50.93901151
+382	Bernhard-Letterhaus-Straße 2-4	1	Neustadt/Nord	1	Bernhard-Letterhaus-Str. 2	6.95146334	50.95491542
+383	Boissereestr. 1	1	Neustadt/Süd	1	Boissereestr. 1	6.934472454	50.93170565
+384	Brabanter Str. 2	1	Neustadt/Nord	1	Brabanter Str. 2	6.937574774	50.93702486
+385	Brabanter Straße 23	1	Neustadt/Nord	1	Brabanter Str. 23	6.937427671	50.93856663
+386	Brückenstr. 19	1	Altstadt/Nord	1	Brückenstr. 19	6.954579367	50.93815046
+388	Haselnußweg geg. Zypressenstr.	6	Heimersdorf	1	Haselnußweg geg. Zypressenstr.	6.906125011	51.01185137
+389	Liverpooler Platz	6	Chorweiler	8	Liverpooler Platz	6.898282975	51.0217188
+390	Taborplatz	6	Heimersdorf	2	Taborplatz	6.905009473	51.01116319
+391	Volkhovener Weg in Höhe Damiansapotheke	6	Heimersdorf	1	Volkhovener Weg in Höhe Damiansapotheke	6.896069431	51.01014904
+392	Volkhovener Weg/Stallagsweg	6	Heimersdorf	2	Volkhovener Weg/Stallagsweg	6.895405123	51.01080238
+641	Salmstr. 7	7	Poll	1	Salmstr. (vor Hausnummer 7)	6.992061568	50.91526008
+642	Josefstr. (Sanitätshaus)	7	Porz	1	Josefstr. 20	7.05801718	50.88588553
+643	Weinsbergstr./Geisselstr.	4	Ehrenfeld	1	Weinsbergstr./Geisselstr. Rückseite Fleischhauer	6.916426983	50.94360078
+961	Venloer Str. 308 	4	Ehrenfeld	1	Venloer Str. 308 (Nähe Woolworth)	6.918865659	50.94897593
+962	Kopischstr.	9	Dellbrück	2	Für Kita Berg.-Gladbacher-Str. 888a	7.065466864	50.97609171
+1281	Haydnstr. 	3	Lindenthal	1	Am Stadtwald/Haydnstr.	6.899653349	50.92785348
+1297	Lindenthalgürtel/Evangelische Kirche	3	Lindenthal	1	Vor der evang. Kirche	6.912089429	50.92322082
+1298	An der Decksteiner Mühle	3	Lindenthal	1	Vor der evang. Kirche. An der Decksteiner Mühle	6.898325021	50.91621753
+1601	Tempelstr. 39	1	Deutz	1	Tempelstr.	6.973261592	50.93505244
+1602	Tempelstr./Ecke Deutzer Freiheit	1	Deutz	1	Tempelstr.	6.973388361	50.93666845
+1921	Hovenstr.	8	Brück	1	Hovenstr. vor Friedhof	7.080356688	50.94401902
+2241	Bachemer Str.	3	Lindenthal	2	Bachemer Str. 29 (vor dem Krankenhaus)	6.923251162	50.93097402
+2561	Severinsstr. 189	1	Altstadt/Süd	1	Höhe Severinsstr. 189	6.957350116	50.92873651
+2881	Mauenheimer Str. 92 	5	Nippes	1	Mauenheimer Str. 92 vor Bürgerzentrum	6.948437149	50.96834253
+2882	Lindenburger Allee 44	3	Lindenthal	1	Lindenburger Allee 44	6.915810914	50.92635677
+2883	Gleueler Str. 	3	Lindenthal	1	Gleueler Str. vor Unireha	6.916297036	50.92644786
+2884	Hansaring 15	1	Neustadt/Nord	1	Hansaring 15	6.94448937	50.94603977
+2885	Richmodstr.	1	Altstadt/Nord	1	Richmodstr. /Am Alten Posthof	6.947709289	50.93789319
+2886	Nobelstr. 51	8	Vingst	1	Nobelstr. vor Supermarkt	7.027146327	50.93272029
+2887	Venloer Str. 385	4	Ehrenfeld	1	Venloer Str. 385	6.915582408	50.95088621
+3201	St.-Tönnisstr. 61	6	Worringen	1	St.-Tönnisstr. 61 (vor Apotheke)	6.863033228	51.06339204
+3202	An den Kreutzmorgen 2	5	Weidenpesch	1	An den Kreuzmorgen (vor Orthopädiepraxis)	6.946095536	50.98472777
+3203	Am Bahnhof	7	Wahn	3	Am Bahnhof Porz Wahn	7.079324974	50.85920217
+3521	Hallenbad Chorweiler	6	Chorweiler	2	Hallenbad Chorweiler / Liller Str.	6.899951829	51.02245404
+3841	Dellbrücker Hauptstr. /Im Wieschen	9	Dellbrück	1	Vor Dellbrücker Hauptstr. 49	7.074978603	50.97428886
+3842	Am Wildpark/Dünnwalder Mauspfad	9	Dünnwald	2	Parkplatz Dünnwalder Mauspfad/Am Wildpark	7.046470832	50.99292983
+3843	Pohlmanstr. 13	5	504	1	Vor Beratungsstelle Pohlmanstr.13	6.967557405	50.97638947
+3844	Stolberger Str.	3	Braunsfeld	1	Vor Stolberger Str. 309	6.893858324	50.94210326
+4161	Margaretastr. 8	4	Ossendorf	1	vor Margaretastr. 8	6.906695475	50.96769983
+4162	St.-Martin-Str. 1	7	Zündorf	1	gegenüber St.-Martin-Str. Friedhof	7.035312496	50.86300201
+4481	Berliner Str. 76	9	Mülheim	1	Berliner Str. vor Nr. 76	7.011035977	50.97226947
+4801	Haselnußweg 39	6	Heimersdorf	1	Rückseite Aufbaugymnasium	6.906842434	51.01096077
+4803	Urbanstr. /An St.Heribert	1	Deutz	3	Platzfläche An St.Heribert	6.969737835	50.93776227
+5122	Weißenburgstr. 31	1	Neustadt/Nord	1	Weißenburgstr. 31	6.958222581	50.95414609
+5458	Pfarrer-Oermann-Platz	7	Eil	1	Pfarrer-Oermann-Platz	7.078115488	50.89370922
+5460	Escher Str. 160	5	Bilderstöckchen	1	Escher Str. 160	6.934410989	50.96422734
+5461	Osloer Str. (Wendehammer)	6	Chorweiler	1	Osloer Str. 7	6.898504283	51.02317345
+5463	Peter-Baum-Weg 24	9	Mülheim	2	Peter-Baum-Weg 24	7.059866305	50.9947709
+5761	Ludwigstr. 8	1	Altstadt/Nord	1	Ludwigstr. 8	6.955141227	50.93885198
+6081	Sürther Hauptstr. 124	2	Sürth	2	vor der Kirche St. Remigius	7.011593888	50.86456783
+6082	Große Sandkaul/Gürzenichstr.	1	Altstadt/Nord	2	Große Sandkaul 18	6.956934422	50.93644576
+6083	Schaevenstr. 4	1	Altstadt/Süd	1	Schaevenstr. 6	6.941903032	50.93338795
+6084	Brüderstr. 7	1	Altstadt/Nord	1	Brüderstr. (Ecke Kreuzgasse)	6.951561243	50.93711667
+6085	Brüderstr. 3	1	Altstadt/Nord	2	Brüderstr. 3	6.952058101	50.93711759
+6086	Olpener Str. 61-63	8	Höhenberg	1	Olpener Str. 61	7.022467908	50.94035063
+6087	Jakobstraße/Seitenfront Isabellenstr. 1	1	Altstadt/Süd	2	Jakobstraße 54	6.956289853	50.9253999
+6407	Kierberger Str. 24	2	Zollstock	1	Kierberger Str. 24	6.946043934	50.91028826
+6727	Friedhofsweg	3	Lindenthal	1	Am Eingang Friedhof Widdersdorf	6.829347773	50.96476974
+6728	Gleueler Str. 	3	Lindenthal	1	Gleueler Str. vor Unireha	6.916132454	50.92632666
+7128	Schanzenstr. (vor E-Werk)	9	Mülheim	1	Schanzenstr. (vor E-Werk)	7.015854287	50.96921798
+7129	Höninger Platz 25	2	Zollstock	1	Höninger Platz 25	6.944057821	50.90059093
+7528	Hermann-Pünder-Str.	1	Deutz	2	Hermann-Pünder-Str.	6.970284928	50.93984549
